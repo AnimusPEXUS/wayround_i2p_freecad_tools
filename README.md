@@ -1,5 +1,5 @@
 
-setup.py is not usable. just download code and add
+setup.py is not usable. package not intended to be installed via pip. just download code and add
 ```python
 np = 'whatever'
 while np in sys.path:
